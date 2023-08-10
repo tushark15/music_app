@@ -1,0 +1,13 @@
+body{
+    overflow: hidden;
+}
+
+.container1{
+    padding-bottom: 10px;
+}
+
+.item{
+    display: inline-block;
+    min-width: 300px;
+    padding: 10px;
+}

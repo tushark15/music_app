@@ -1,0 +1,9 @@
+.brand {
+  margin-left: auto !important;
+  font-size: 3rem !important;
+}
+
+.navbar-custom {
+  height: 8rem !important;
+  background-color: pink !important;
+}

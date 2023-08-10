@@ -1,0 +1,13 @@
+.searchBar{
+    margin-top: 10px !important;
+}
+
+.items{
+    border: 2px solid black !important;
+    background-color: pink !important;
+    border-radius: 10px !important;
+}
+
+.searchText{
+    margin: auto;
+}
